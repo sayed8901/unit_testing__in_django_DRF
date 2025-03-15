@@ -97,6 +97,3 @@ class UserMethodTest(TestCase):
         
         self.assertFalse(user.is_staff)
     
-
-
-
